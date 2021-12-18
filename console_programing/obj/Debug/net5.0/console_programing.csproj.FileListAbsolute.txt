@@ -1,0 +1,16 @@
+C:\Users\aleyn\Desktop\Patika_Pratikler\console_programing\bin\Debug\net5.0\console_programing.exe
+C:\Users\aleyn\Desktop\Patika_Pratikler\console_programing\bin\Debug\net5.0\console_programing.deps.json
+C:\Users\aleyn\Desktop\Patika_Pratikler\console_programing\bin\Debug\net5.0\console_programing.runtimeconfig.json
+C:\Users\aleyn\Desktop\Patika_Pratikler\console_programing\bin\Debug\net5.0\console_programing.runtimeconfig.dev.json
+C:\Users\aleyn\Desktop\Patika_Pratikler\console_programing\bin\Debug\net5.0\console_programing.dll
+C:\Users\aleyn\Desktop\Patika_Pratikler\console_programing\bin\Debug\net5.0\ref\console_programing.dll
+C:\Users\aleyn\Desktop\Patika_Pratikler\console_programing\bin\Debug\net5.0\console_programing.pdb
+C:\Users\aleyn\Desktop\Patika_Pratikler\console_programing\obj\Debug\net5.0\console_programing.csproj.AssemblyReference.cache
+C:\Users\aleyn\Desktop\Patika_Pratikler\console_programing\obj\Debug\net5.0\console_programing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleyn\Desktop\Patika_Pratikler\console_programing\obj\Debug\net5.0\console_programing.AssemblyInfoInputs.cache
+C:\Users\aleyn\Desktop\Patika_Pratikler\console_programing\obj\Debug\net5.0\console_programing.AssemblyInfo.cs
+C:\Users\aleyn\Desktop\Patika_Pratikler\console_programing\obj\Debug\net5.0\console_programing.csproj.CoreCompileInputs.cache
+C:\Users\aleyn\Desktop\Patika_Pratikler\console_programing\obj\Debug\net5.0\console_programing.dll
+C:\Users\aleyn\Desktop\Patika_Pratikler\console_programing\obj\Debug\net5.0\ref\console_programing.dll
+C:\Users\aleyn\Desktop\Patika_Pratikler\console_programing\obj\Debug\net5.0\console_programing.pdb
+C:\Users\aleyn\Desktop\Patika_Pratikler\console_programing\obj\Debug\net5.0\console_programing.genruntimeconfig.cache

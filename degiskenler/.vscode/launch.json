@@ -9,10 +9,10 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/console_programing/bin/Debug/net5.0/console_programing.dll",
+            "program": "${workspaceFolder}/bin/Debug/net5.0/degiskenler.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/console_programing",
-            "console": "integratedTerminal",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
             "stopAtEntry": false
         },
         {
